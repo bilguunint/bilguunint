@@ -16,4 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilguunint&show_icons=true&locale=en" alt="bilguunint" /></p>
 <h3 align="left">Github Most Used Languages:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilguunint&show_icons=true&locale=en&layout=compact" alt="bilguunint" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilguunint&show_icons=true&locale=en&layout=compact" alt="bilguunint" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bilguunint&show_icons=true&locale=en" alt="bilguunint" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilguunint&" alt="bilguunint" /></p>
